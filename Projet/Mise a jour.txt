@@ -1,0 +1,6 @@
+Nouveautées :
+Optimisation du code pour la fonction revelle, qui s'occupe du dégagement.
+Ajout de deux thèmes : Flower Power et Moderne.
+Séparation des différentes fonctions dans deux nouveaux fichier python (.py).
+
+*Toutes les images contenu dans le jeu ont été réalisé par Gabriel Cadilhac
